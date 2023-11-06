@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: antiquewhite;
+  height: 80px;
+}
+
+main {
+  min-height: 100vh;
+  background-color: darkcyan;
+}
+
+div.box {
+    width: 300px;
+    height: 300px;
+    border: 5px dotted darkcyan;
+    margin: 10px;
+}
+
+.box1 {
+    background-color: antiquewhite;
+    
+}
+
+.box2 {
+    background-color: antiquewhite;
+   
+}
+
+.box3 {
+    background-color: antiquewhite;
+    
+}
+
+footer {
+  height: 200px;
+  background-color: antiquewhite;
+}
